@@ -1,5 +1,9 @@
 # Snapberry-V2
 A raspberry pi point and shoot camera which shoots 10 bit RAW and HD video without using a screen
+
+<img width="8160" height="3768" alt="20260505_164122 jpg" src="https://github.com/user-attachments/assets/dd870e56-62c8-4917-bf46-f398c1ab4a24" />
+
+
 # Updates from the last version
 This updated version of the Old "Snapberry" point and shoot camera project i was working on and the biggest fix has been the autofocus timing. previously the camera was focusing on full 4K resolution because on that reason it was taking 10-20 seconds of time just to focus , but now because the camera is using a smaller area 1280x780 it can now focus on the subject in 3-4 SECONDS.
 
